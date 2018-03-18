@@ -10,7 +10,7 @@ import (
 
 //wich is a slise of strings
 
-type deck []string
+type  deck []string
 
 func newDeck() deck {
 	cards := deck{}
